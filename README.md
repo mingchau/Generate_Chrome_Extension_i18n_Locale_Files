@@ -1,0 +1,2 @@
+# Generate_Chrome_Extension_i18n_Locale_Files
+Generate Chrome extension i18n locale files
